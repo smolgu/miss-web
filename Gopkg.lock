@@ -10,7 +10,8 @@
 [[projects]]
   name = "github.com/Unknwon/com"
   packages = ["."]
-  revision = "7677a1d7c1137cd3dd5ba7a076d0c898a1ef4520"
+  revision = "28b053d5a2923b87ce8c5a08f3af779894a72758"
+  version = "v1"
 
 [[projects]]
   name = "github.com/andybalholm/cascadia"
@@ -89,7 +90,7 @@
   branch = "master"
   name = "golang.org/x/crypto"
   packages = ["pbkdf2"]
-  revision = "d6449816ce06963d9d136eee5a56fca5b0616e7e"
+  revision = "e73bf333ef8920dbb52ad18d4bd38ad9d9bc76d7"
 
 [[projects]]
   branch = "master"
@@ -177,8 +178,8 @@
 [[projects]]
   name = "gopkg.in/ini.v1"
   packages = ["."]
-  revision = "5e9692864e22d02ac79e2fa499cffb00520b4fea"
-  version = "v1.34.0"
+  revision = "6529cf7c58879c08d927016dde4477f18a0634cb"
+  version = "v1.36.0"
 
 [[projects]]
   name = "gopkg.in/macaron.v1"
@@ -195,6 +196,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "a00ddcd5ead8c57457c5142fba134a40b7d06667fd93d941bbf0be4291d62c3c"
+  inputs-digest = "74b2a533eb32a7e8651e4dcef80685fdedfbebc38a847e759f9008a14b8f6a21"
   solver-name = "gps-cdcl"
   solver-version = 1
